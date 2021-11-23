@@ -5,6 +5,7 @@ An interpreter for the brainfuck programming language written in python.
 - Usage in command line:
   ```
   python <name_of_interpreter_file> <name_of_the_bf_file>
+  
   name_of_interpreter_file is for example "brainfuck.py"
   name_of_the_bf_file is for example "example.bf"
   ```
